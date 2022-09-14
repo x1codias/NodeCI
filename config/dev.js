@@ -6,4 +6,6 @@ module.exports = {
     "mongodb://xico:FH1tcmADC1ZSosBs@ac-ptwjk3v-shard-00-00.yfdsett.mongodb.net:27017,ac-ptwjk3v-shard-00-01.yfdsett.mongodb.net:27017,ac-ptwjk3v-shard-00-02.yfdsett.mongodb.net:27017/blog-dev?ssl=true&replicaSet=atlas-9tczlc-shard-0&authSource=admin&retryWrites=true&w=majority",
   cookieKey: "123123123",
   redisUrl: "redis://127.0.0.1:6379",
+  accessKeyId: "AKIAZTUOLVJLXMZBA56R",
+  secretAccessKey: "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",
 };
